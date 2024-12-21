@@ -65,11 +65,11 @@ Epoch 20/20, Train Loss: 0.2203, Train Acc: 0.9321, Val Loss: 0.0986, Val Acc: 0
 
 ## HW5-3: Cifar 圖片分類 VGG16 pretrained  
 ```python
-Test accuracy: 0.7603
+Test accuracy: 0.7633
 ```
 ![alt text](docs/vgg16.png)  
 ## HW5-3: Cifar 圖片分類 VGG19 pretrained  
 ```python
-Test accuracy: 0.5804
+Test accuracy: 0.5848
 ```
 ![alt text](docs/vgg19.png)
