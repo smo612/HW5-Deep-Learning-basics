@@ -1,10 +1,19 @@
 # HW5=Deep Learning basics  
 
 ## HW5-1: iris classification problem (tf.keras)  
+```python
+tf.keras tensorboard:
+```
 ![alt text](docs/iristf.png)  
 ## HW5-1: iris classification problem (pytorch)  
+```python
+pytorch tensorboard:
+```
 ![alt text](docs/irispy.png)  
 ## HW5-1: iris classification problem (pytorch lightning)  
+```python
+pytorch lightning tensorboard:
+```
 ![alt text](docs/irispyn.png)  
 
 ## HW5-2: 手寫辨認(DNN/tf.keras)  
