@@ -5,12 +5,10 @@
 tf.keras tensorboard:
 ```
 ![alt text](docs/iristf.png)  
-## HW5-1: iris classification problem (pytorch)  
 ```python
 pytorch tensorboard:
 ```
 ![alt text](docs/irispy.png)  
-## HW5-1: iris classification problem (pytorch lightning)  
 ```python
 pytorch lightning tensorboard:
 ```
